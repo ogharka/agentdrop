@@ -1,0 +1,1 @@
+{"version":2,"builds":[{"src":"agentdrop-platform.html","use":"@vercel/static"}],"routes":[{"src":"/","dest":"/agentdrop-platform.html"}]}
